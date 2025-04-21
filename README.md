@@ -6,7 +6,10 @@
 A curated list of articles I have found useful related adminstration kind of stuff
 
 
-### Linux User Environmebnt
+### RHEL Registration
+- [Red Hat Registration Assistant](https://access.redhat.com/labs/registrationassistant/) - A guide to step you through creating the registration command
+  
+### Linux User Environment
 - [How to customize Linux user environments](https://www.redhat.com/en/blog/customize-user-environments)
 - [Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)
 
