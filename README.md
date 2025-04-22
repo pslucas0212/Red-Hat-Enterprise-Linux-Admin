@@ -13,5 +13,8 @@ A curated list of articles I have found useful related adminstration kind of stu
 - [How to customize Linux user environments](https://www.redhat.com/en/blog/customize-user-environments)
 - [Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)
 
+### Installing/Creating RHEL instances
+- [Image mode for Red Hat Enterprise Linux: A quick start guide](https://www.redhat.com/en/blog/image-mode-red-hat-enterprise-linux-quick-start-guide)
+
 
 
